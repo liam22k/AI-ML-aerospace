@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# Personal scratch space
+_scratch/*
+!_scratch/.gitkeep
+
+# Third-party papers (copyrighted PDFs, keep local only)
+_papers-general/*
+!_papers-general/.gitkeep
+*/papers/*
+!*/papers/.gitkeep
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
