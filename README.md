@@ -1,8 +1,8 @@
-<<<<<<< HEAD
 # AI / Machine Learning for Autonomous Aerospace Systems
 
 Self-directed study of how modern AI works, from neural-network fundamentals
-to applications in autonomous aerospace vehicles (GNC, state estimation, control).
+to applications in autonomous aerospace vehicles (GNC, state estimation, control),
+working toward building an AI agent for aerospace engineering.
 
 ## Modules
 
@@ -18,7 +18,3 @@ to applications in autonomous aerospace vehicles (GNC, state estimation, control
 Each module folder holds `notes/` (LaTeX/PDF), `code/` (Python), and `papers/` (local only, not tracked).
 
 Liam Kincaid, Aerospace Engineering, CU Boulder
-=======
-# AI-ML-aerospace
-building an AI agent to help in aerospacce
->>>>>>> 2bb8dec2e65e1bc2a345798651108e51226f1544
